@@ -1,0 +1,23 @@
+{
+  "name": "scrabble_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^3.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawaveys/scrabble_challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sawaveys/scrabble_challenge/issues"
+  },
+  "homepage": "https://github.com/sawaveys/scrabble_challenge#readme"
+}
